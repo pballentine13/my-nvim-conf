@@ -12,6 +12,7 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 vim.wo.relativenumber = true
+vim.cmd(":set nu")
 
 require("vim-options")
 require("lazy").setup("plugins")
