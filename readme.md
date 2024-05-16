@@ -21,7 +21,7 @@ The leader is set to spacebar
 - <leader>gf for formatting, currently using black and isort for python as well as stylua for lua.
 
 ### Custom Commands for Neo-Tree
--< C-n> to open file tree on left
+- <C-n> to open file tree on left
 
 ### Custom Commands for Code Completing
 - <C-b> to scroll docs up
