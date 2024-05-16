@@ -5,6 +5,8 @@ The leader is set to spacebar
 
 Clone this to repo to *~/.config/nvim/* to try it out. *Don't forget to back up your config first.*
 
+##### For best results, install a font from nerdfonts for your terminal. 
+
 ### Current LSPs
 - Python
 - HTML
