@@ -11,7 +11,6 @@ return {
       require("mason-lspconfig").setup({
         ensure_installed = {
           "cssls",
-          "docker_compose_language_service",
           "html",
           "pyright",
           "sqlls",
@@ -27,8 +26,6 @@ return {
       local capabilities = require('cmp_nvim_lsp').default_capabilities()
       local lspconfig = require("lspconfig")
       lspconfig.ccls.setup({capabilities = capabilities})
-      lspconfig.docker_ls.setup({capabilities = capabilities})
-      lspconfig.docker_compose_language_service.setup({capabilities = capabilities})
       lspconfig.html.setup({capabilities = capabilities})
       lspconfig.pyright.setup({capabilities = capabilities})
       lspconfig.sqlls.setup({capabilities = capabilities})
