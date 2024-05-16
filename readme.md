@@ -3,6 +3,8 @@ Based on the tutorial series from [typecraft](https://www.youtube.com/watch?v=zH
 
 The leader is set to spacebar
 
+Clone this to repo to *~/.config/nvim/* to try it out. *Don't forget to back up your config first.*
+
 ### Current LSPs
 - Python
 - HTML
