@@ -9,7 +9,8 @@ Clone this to repo to *~/.config/nvim/* to try it out. *Don't forget to back up 
 
 \<C-x\>o to code complete
 
-Invoke *:Copilot setup* to log 
+Invoke *:Copilot setup* to log
+
 Invoke :Mason and install *black* and *isort* for python formatting/linting
 
 
