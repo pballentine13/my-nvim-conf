@@ -7,6 +7,8 @@ Clone this to repo to *~/.config/nvim/* to try it out. *Don't forget to back up 
 
 ##### For best results, install a font from nerdfonts for your terminal. 
 
+\<C-x\>o to code complete
+
 ### Current LSPs
 - Python
 - HTML
